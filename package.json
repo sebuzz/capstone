@@ -1,3 +1,4 @@
 {
-  "name": "capstone"
+  "name": "capstone",
+  "type": "module"
 }
