@@ -1,4 +1,5 @@
 import { readFile } from 'fs';
+import { argv } from 'process';
 
 
 //const myFile =  readFile("package.json", ()=>{console.log("done..")});
