@@ -1,0 +1,17 @@
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+# 2 space indentation json files
+[*.json]
+indent_style = tab
+indent_size = 2
+
+# 4 space indentation javascript files
+[*.js]
+indent_style = tab
+indent_size = 4
